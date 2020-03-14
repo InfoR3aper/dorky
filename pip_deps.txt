@@ -1,0 +1,4 @@
+selenium
+tld
+bs4
+lxml

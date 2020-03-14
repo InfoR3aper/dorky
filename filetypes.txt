@@ -1,0 +1,16 @@
+backup
+bk
+doc
+docx
+idoc
+odt
+old
+pdf
+pps
+ppt
+ps
+rtf
+sxw
+txt
+xls
+xml
